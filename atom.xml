@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Repo#-1404</title>
+  
+  <subtitle>懒惰是程序员的美德</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/LinnetTyson/LinnetTyson.github.io.git/"/>
+  <updated>2019-01-21T01:44:33.019Z</updated>
+  <id>https://github.com/LinnetTyson/LinnetTyson.github.io.git/</id>
+  
+  <author>
+    <name>Tao Wu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test-title</title>
+    <link href="https://github.com/LinnetTyson/LinnetTyson.github.io.git/2019/01/20/hello-world/"/>
+    <id>https://github.com/LinnetTyson/LinnetTyson.github.io.git/2019/01/20/hello-world/</id>
+    <published>2019-01-21T00:10:37.657Z</published>
+    <updated>2019-01-21T01:44:33.019Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
